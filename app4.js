@@ -1,0 +1,10 @@
+let style = ["Jazz","Blues"]
+console.log(style)
+style.push("Rock-n-Roll")
+console.log(style)
+style[1] = ("Classics")
+console.log(style)
+style.shift(1)
+console.log(style)
+style.unshift("Rap", "Reggae")
+console.log(style)
